@@ -1,0 +1,15 @@
+{
+  "name": "ubuntu-radio-buttons-menu-bug",
+  "productName": "Ubuntu Menu Bug",
+  "version": "1.0.0",
+  "description": "Electron Bug Report",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mikaeru",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
