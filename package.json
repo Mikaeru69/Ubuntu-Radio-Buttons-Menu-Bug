@@ -1,6 +1,6 @@
 {
   "name": "ubuntu-radio-buttons-menu-bug",
-  "productName": "Ubuntu Menu Bug",
+  "productName": "Ubuntu Radio Buttons Menu Bug",
   "version": "1.0.0",
   "description": "Electron Bug Report",
   "main": "main.js",
